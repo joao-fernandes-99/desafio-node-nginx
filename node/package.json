@@ -1,0 +1,27 @@
+{
+  "name": "desafio-node-nginx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joao-fernandes-99/desafio-node-nginx.git"
+  },
+  "keywords": [
+    "node",
+    "nginx",
+    "mysql"
+  ],
+  "author": "Joao Guilherme Fernandes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joao-fernandes-99/desafio-node-nginx/issues"
+  },
+  "homepage": "https://github.com/joao-fernandes-99/desafio-node-nginx#readme",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
