@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/joao-fernandes-99/desafio-node-nginx#readme",
   "dependencies": {
-    "express": "^4.19.1"
+    "express": "^4.19.1",
+    "mysql": "^2.18.1"
   }
 }
