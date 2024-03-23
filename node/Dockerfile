@@ -7,4 +7,6 @@ RUN wget -O - https://github.com/jwilder/dockerize/releases/download/v0.7.0/dock
 
 COPY . .
 
+RUN npm install
+
 EXPOSE 3000
