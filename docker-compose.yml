@@ -42,6 +42,8 @@ services:
       - desafio-node-nginx
     ports:
       - '8080:80'
+    depends_on:
+      - back-end
 
 networks:
   desafio-node-nginx:
